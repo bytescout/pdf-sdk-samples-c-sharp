@@ -39,6 +39,7 @@
 \Forms - Flatten Form
 \Forms - ListBox
 \Forms - RadioButton
+\Forms - Read Form Values
 \Forms - TextField
 \Invisible Text Over Image
 \Layers
@@ -46,6 +47,7 @@
 \Navigation - Link To Page
 \Navigation - Page Numbers
 \Security - Passwords And Permissions
+\Security - Remove Protection
 \Security - Signing
 \Text - Draw String
 \Text - Fonts
