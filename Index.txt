@@ -46,6 +46,7 @@
 \Navigation - Bookmarks
 \Navigation - Link To Page
 \Navigation - Page Numbers
+\Reorder Pages
 \Security - Passwords And Permissions
 \Security - Remove Protection
 \Security - Signing
