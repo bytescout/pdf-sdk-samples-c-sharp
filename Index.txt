@@ -17,11 +17,11 @@
 \Convert - HTML to DOCX
 \Convert - HTML to PDF
 \Convert - XML to PDF
-\Copy Pages From One Document To Another
 \Display Options
 \Document - Create New
 \Document - Information
 \Document - Load Existing
+\Document - Merge Two Documents
 \Drawing - Blend Mode
 \Drawing - Clipping
 \Drawing - Color Profiles
