@@ -6,6 +6,8 @@
 \Actions - Show-Hide Widget
 \Actions - Submit Form
 \Actions - URI (Link)
+\Add Header And Footer
+\Add Page Numbers
 \Annotations - 3D
 \Annotations - File Attachment
 \Annotations - Markup
