@@ -34,6 +34,13 @@
 \Drawing - Tiling Patterns
 \Drawing - Transformations
 \Drawing - Transparency
+\Email to PDF (EmailWithAttachment)
+\Email to PDF (HTML Email With Attachments)
+\Email to PDF (HTML Email)
+\Email to PDF (RTF Email With Attachments)
+\Email to PDF (RTF Email)
+\Email to PDF (Text Email With Attachments)
+\Email to PDF (Text Email)
 \Forms - Button
 \Forms - CheckBox
 \Forms - ComboBox
