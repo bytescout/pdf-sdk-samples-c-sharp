@@ -18,7 +18,6 @@
 \Convert - DOCX to PDF
 \Convert - HTML to DOCX
 \Convert - HTML to PDF
-\Convert - SVG to PDF
 \Convert - XML to PDF
 \Display Options
 \Document - Create New
