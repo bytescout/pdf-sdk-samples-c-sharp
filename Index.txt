@@ -1,85 +1,72 @@
 ## Index of source code examples:
 
-\Actions - GoTo
-\Actions - JavaScript
-\Actions - Launch
-\Actions - Show-Hide Widget
-\Actions - Submit Form
-\Actions - URI (Link)
+\Add 3d Annotations in PDF
+\Add Annotation with Markup in PDF
+\Add File Attachment Annotation in PDF
+\Add GoTo Action to PDF
 \Add Header And Footer
+\Add Images to PDF
+\Add JavaScript Action to pdf
+\Add Launch action to PDF
 \Add Page Numbers
-\Annotations - 3D
-\Annotations - File Attachment
-\Annotations - Markup
-\Annotations - Sound
-\Annotations - Text
-\Annotations - Video
-\Convert - DOCX to HTML
-\Convert - DOCX to PDF
-\Convert - HTML to DOCX
-\Convert - HTML to PDF
-\Convert - SVG to PDF
-\Convert - XML to PDF
-\Display Options
-\Document - Create New
-\Document - Information
-\Document - Load Existing
-\Document - Merge Two Documents
-\Drawing - Blend Mode
-\Drawing - Clipping
-\Drawing - Color Profiles
-\Drawing - Graphics State
-\Drawing - Lines and Curves
-\Drawing - Rectangles
-\Drawing - Templates
-\Drawing - Tiling Patterns
-\Drawing - Transformations
-\Drawing - Transparency
-\Email to PDF (EmailWithAttachment)
-\Email to PDF (HTML Email With Attachments)
-\Email to PDF (HTML Email)
-\Email to PDF (RTF Email With Attachments)
-\Email to PDF (RTF Email)
-\Email to PDF (Text Email With Attachments)
-\Email to PDF (Text Email)
-\Forms - Button
-\Forms - CheckBox
-\Forms - ComboBox
-\Forms - Fill Form
-\Forms - Flatten Form
-\Forms - ListBox
-\Forms - RadioButton
-\Forms - Read Form Values
-\Forms - TextField
-\Invisible Text Over Image
-\Layers
-\Navigation - Bookmarks
-\Navigation - Link To Page
-\Navigation - Page Numbers
-\Reorder Pages
-\Security - Passwords And Permissions
-\Security - Remove Protection
-\Security - Signing
-\Text - Draw String
-\Text - Fonts
-\Text - Intercharacter Spacing
-\Text - Right To Left Text
-\Text - Rotation
-\Text - String Scaling
-\Text - Superscrip and Subscript
-\Text - Tables
-\Text - Watermarks
-\Text - Word Spacing
-\_Web API
-\_Web API\DOC To PDF
-\_Web API\HTML To PDF
-\_Web API\Image To PDF
-\_Web API\DOC To PDF\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\Convert DOC To PDF From URL Asynchronously
-\_Web API\HTML To PDF\Convert Web Page To PDF From Link
-\_Web API\HTML To PDF\Convert Web Page To PDF From Link Asynchronously
-\_Web API\HTML To PDF\Generate PDF Invoice From HTML Template
-\_Web API\Image To PDF\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\Convert Images To PDF From URLs
-\_Web API\Image To PDF\Convert Images To PDF From URLs Asynchronously
+\Add Passwords And Permissions in PDF
+\Add Show Hide Action to PDF
+\Add Sound Annotation in PDF
+\Add Submit Form Action to PDF
+\Add text annotations in PDF
+\Add TextField to PDF form
+\Add URI Link Action in PDF
+\Add video annotation in PDF
+\Add Watermarks to PDF
+\Convert DOCX to HTML
+\Convert DOCX to PDF
+\Convert Email with attachments to PDF
+\Convert HTML Email to PDF
+\convert HTML Email with attachments to PDF
+\Convert HTML to DOCX
+\Convert HTML to PDF
+\Convert RTF Email to PDF
+\Convert RTF Email with attachments to PDF
+\Convert SVG to PDF
+\Convert text Email to PDF
+\Convert text email with attachments to PDF
+\Convert XML to PDF
+\Create and use template in PDF
+\Create button in PDF Form
+\Create checkbox in pdf form
+\Create ComboBox in PDF form
+\Create ListBox in PDF form
+\Create New PDF document
+\Create RadioButton in PDF form
+\Create Right To Left Text in PDF
+\Create Tables in PDF
+\Draw Lines and Curves in PDF
+\Draw Rectangles in PDF
+\Draw text String in PDF
+\Draw with Transparency in PDF
+\Fill PDF form
+\Flatten PDF Form
+\Load Existing PDF document
+\Merge Two PDF Documents
+\Read Form Values from PDF form
+\Remove password and Protection from PDF
+\Reorder Pages in PDF
+\Set Blend Mode for Drawing in PDF
+\Set Clipping for drawing in PDF
+\Set Color Profiles for drawing in PDF
+\Set Fonts for text in PDF
+\Set Graphics State for Drawing in PDF
+\Set Intercharacter Spacing for Text in PDF
+\Set Invisible Text Over Image in PDF
+\Set Navigation Bookmarks in PDF
+\Set Page Numbers in PDF
+\Set PDF document Display Options
+\Set PDF document Information
+\Set String Scaling in PDF
+\Set Superscript and Subscript
+\Set Text Rotation in PDF
+\Set Tiling Patterns for drawings in pdf
+\Set Transformations for drawings in pdf
+\Set Word Spacing for text in PDF
+\Signing PDF and set security
+\Use PDF Layers
