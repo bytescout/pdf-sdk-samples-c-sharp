@@ -22,7 +22,7 @@
 \Convert DOCX to PDF
 \Convert Email with attachments to PDF
 \Convert HTML Email to PDF
-\convert HTML Email with attachments to PDF
+\Convert HTML Email With Attachments To PDF
 \Convert HTML to DOCX
 \Convert HTML to PDF
 \Convert RTF Email to PDF
@@ -58,6 +58,7 @@
 \Set Graphics State for Drawing in PDF
 \Set Intercharacter Spacing for Text in PDF
 \Set Invisible Text Over Image in PDF
+\Set Link To Page in PDF
 \Set Navigation Bookmarks in PDF
 \Set Page Numbers in PDF
 \Set PDF document Display Options
