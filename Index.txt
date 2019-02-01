@@ -6,54 +6,54 @@
 \Add GoTo Action to PDF
 \Add Header And Footer
 \Add Images to PDF
-\Add JavaScript Action to pdf
-\Add Launch action to PDF
+\Add JavaScript Action to PDF
+\Add Launch Action to PDF
 \Add Page Numbers
 \Add Passwords And Permissions in PDF
 \Add Show Hide Action to PDF
 \Add Sound Annotation in PDF
 \Add Submit Form Action to PDF
-\Add text annotations in PDF
+\Add Text Annotations in PDF
 \Add TextField to PDF form
 \Add URI Link Action in PDF
-\Add video annotation in PDF
+\Add Video Annotation in PDF
 \Add Watermarks to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
-\Convert Email with attachments to PDF
+\Convert Email with Attachments to PDF
 \Convert HTML Email to PDF
 \Convert HTML Email With Attachments To PDF
 \Convert HTML to DOCX
 \Convert HTML to PDF
 \Convert RTF Email to PDF
-\Convert RTF Email with attachments to PDF
+\Convert RTF Email with Attachments to PDF
 \Convert SVG to PDF
-\Convert text Email to PDF
-\Convert text email with attachments to PDF
+\Convert Text Email to PDF
+\Convert Text Email with Attachments to PDF
 \Convert XML to PDF
-\Create and use template in PDF
-\Create button in PDF Form
-\Create checkbox in pdf form
+\Create And Use Template In PDF
+\Create Button in PDF Form
+\Create Checkbox In PDF Form
 \Create ComboBox in PDF form
 \Create ListBox in PDF form
-\Create New PDF document
+\Create New PDF Document
 \Create RadioButton in PDF form
 \Create Right To Left Text in PDF
 \Create Tables in PDF
 \Draw Lines and Curves in PDF
 \Draw Rectangles in PDF
-\Draw text String in PDF
+\Draw Text String in PDF
 \Draw with Transparency in PDF
-\Fill PDF form
+\Fill PDF Form
 \Flatten PDF Form
-\Load Existing PDF document
+\Load Existing PDF Document
 \Merge Two PDF Documents
 \Read Form Values from PDF form
-\Remove password and Protection from PDF
+\Remove Password and Protection From PDF
 \Reorder Pages in PDF
 \Set Blend Mode for Drawing in PDF
-\Set Clipping for drawing in PDF
-\Set Color Profiles for drawing in PDF
+\Set Clipping for Drawing in PDF
+\Set Color Profiles for Drawing in PDF
 \Set Fonts for text in PDF
 \Set Graphics State for Drawing in PDF
 \Set Intercharacter Spacing for Text in PDF
@@ -61,13 +61,13 @@
 \Set Link To Page in PDF
 \Set Navigation Bookmarks in PDF
 \Set Page Numbers in PDF
-\Set PDF document Display Options
-\Set PDF document Information
+\Set PDF Document Display Options
+\Set PDF Document Information
 \Set String Scaling in PDF
 \Set Superscript and Subscript
 \Set Text Rotation in PDF
-\Set Tiling Patterns for drawings in pdf
-\Set Transformations for drawings in pdf
-\Set Word Spacing for text in PDF
-\Signing PDF and set security
+\Set Tiling Patterns for Drawings in PDF
+\Set Transformations for Drawings in PDF
+\Set Word Spacing for Text in PDF
+\Sign PDF and Set Security
 \Use PDF Layers
