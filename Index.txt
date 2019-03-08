@@ -44,6 +44,7 @@
 \Draw Rectangles in PDF
 \Draw Text String in PDF
 \Draw with Transparency in PDF
+\Fill Form 1099-INT
 \Fill PDF Form
 \Flatten PDF Form
 \Load Existing PDF Document
@@ -70,4 +71,5 @@
 \Set Transformations for Drawings in PDF
 \Set Word Spacing for Text in PDF
 \Sign PDF and Set Security
+\Split PDF Document
 \Use PDF Layers
