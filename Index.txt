@@ -40,6 +40,7 @@
 \Create RadioButton in PDF form
 \Create Right To Left Text in PDF
 \Create Tables in PDF
+\Create ZUGFeRD Invoice
 \Draw Lines and Curves in PDF
 \Draw Rectangles in PDF
 \Draw Text String in PDF
