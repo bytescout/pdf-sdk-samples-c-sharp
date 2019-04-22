@@ -31,6 +31,7 @@
 \Convert Text Email to PDF
 \Convert Text Email with Attachments to PDF
 \Convert XML to PDF
+\Convert XPS to PDF
 \Create And Use Template In PDF
 \Create Button in PDF Form
 \Create Checkbox In PDF Form
