@@ -18,6 +18,7 @@
 \Add URI Link Action in PDF
 \Add Video Annotation in PDF
 \Add Watermarks to PDF
+\Convert Digital Photos to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
 \Convert Email with Attachments to PDF
@@ -37,6 +38,7 @@
 \Create Checkbox In PDF Form
 \Create ComboBox in PDF form
 \Create ListBox in PDF form
+\Create Multipage Tiff to PDF
 \Create New PDF Document
 \Create RadioButton in PDF form
 \Create Right To Left Text in PDF
