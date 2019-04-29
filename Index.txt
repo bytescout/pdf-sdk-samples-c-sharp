@@ -47,11 +47,16 @@
 \Draw Text String in PDF
 \Draw with Transparency in PDF
 \Fill Form 1099-INT
+\Fill Form W-4
+\Fill Form W-9
 \Fill PDF Form
 \Flatten PDF Form
 \Load Existing PDF Document
 \Merge Two PDF Documents
+\Read Form Values from 1099-INT form
 \Read Form Values from PDF form
+\Read Form Values from W-4 form
+\Read Form Values from W-9 form
 \Remove Password and Protection From PDF
 \Reorder Pages in PDF
 \Set Blend Mode for Drawing in PDF
