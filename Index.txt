@@ -55,6 +55,7 @@
 \Fill Form W-9
 \Fill PDF Form
 \Flatten PDF Form
+\Insert Page to PDF
 \Load Existing PDF Document
 \Merge Two PDF Documents
 \Read Form Values from 1099-INT form
