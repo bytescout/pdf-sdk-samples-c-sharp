@@ -82,6 +82,7 @@
 \Set Tiling Patterns for Drawings in PDF
 \Set Transformations for Drawings in PDF
 \Set Word Spacing for Text in PDF
+\Shift Page Content
 \Sign PDF and Set Security
 \Split PDF Document
 \Use PDF Layers
