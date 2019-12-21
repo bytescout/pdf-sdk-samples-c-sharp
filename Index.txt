@@ -18,6 +18,7 @@
 \Add URI Link Action in PDF
 \Add Video Annotation in PDF
 \Add Watermarks to PDF
+\Change Page Size
 \Convert Digital Photos to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
