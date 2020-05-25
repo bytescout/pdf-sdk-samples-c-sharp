@@ -50,6 +50,7 @@
 \Download and Process file
 \Draw Lines and Curves in PDF
 \Draw Rectangles in PDF
+\Draw Text On Rotated Page
 \Draw Text String in PDF
 \Draw with Transparency in PDF
 \External JS for form data validation
