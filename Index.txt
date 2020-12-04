@@ -60,6 +60,7 @@
 \Fill Form W-9
 \Fill PDF Form
 \Flatten PDF Form
+\Get All PDF Form Fields
 \Insert Page to PDF
 \Load Existing PDF Document
 \Merge Two PDF Documents
