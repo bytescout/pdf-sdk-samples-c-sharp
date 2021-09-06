@@ -91,4 +91,5 @@
 \Shift Page Content
 \Sign PDF and Set Security
 \Split PDF Document
+\Use PDF as Background to Other PDF
 \Use PDF Layers
