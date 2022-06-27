@@ -52,6 +52,7 @@
 \Draw Rectangles in PDF
 \Draw Text On Rotated Page
 \Draw Text String in PDF
+\Draw Transparent Text
 \Draw with Transparency in PDF
 \External JS for form data validation
 \Fill Form 1099-INT
