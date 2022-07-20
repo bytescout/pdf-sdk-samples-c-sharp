@@ -85,6 +85,7 @@
 \Set PDF Document Information
 \Set String Scaling in PDF
 \Set Superscript and Subscript
+\Set Text Line Spacing in PDF
 \Set Text Rotation in PDF
 \Set Tiling Patterns for Drawings in PDF
 \Set Transformations for Drawings in PDF
